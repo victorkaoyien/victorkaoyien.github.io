@@ -1,0 +1,44 @@
+body {
+background-color: black;
+font-family: "Courier New", Courier, monospace;	
+}	
+
+.destaquetexto {
+color: "#2eff00";	
+}
+
+.text {
+font-size: 3;
+color: #2eff00;
+
+}
+
+.tab1 td{
+border: 2px solid green;
+}
+
+#imagem1 {
+width: 510px;
+height: 112px;
+}
+
+
+.tab2 td {
+position: relative;
+border: 2px solid green;
+}
+
+#imagem2 {
+width: 165px;
+height: 33px;
+}
+
+.tab3 td {
+position: relative;
+border: 2px solid green;
+}
+
+#imagem3 {
+width: 176px;
+height: 65px;
+}
